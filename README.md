@@ -1,3 +1,5 @@
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=chainforge)
+
 # ChainForge
 
 *Working with Ethereum: deploy and call contracts from a block “board”.*
@@ -61,3 +63,4 @@ And the classic **Contract** block: drop in **any** contract by pasting **ABI** 
 ## Code signing & SmartScreen
 
 An `exe` **without paid code signing** is not a virus — Windows just can’t identify the publisher. This build is **clean**; if SmartScreen pops up, click **More info → Run anyway**. Sometimes you also need **File properties → Unblock**.
+
